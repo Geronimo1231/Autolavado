@@ -7,13 +7,16 @@ body {
         }
 
         header {
+	    margin: auto;
+            padding: auto;
             background-color: #000000;
             color: white;
-            padding: 1em 0;
             text-align: center;
         }
 
         nav {
+	    margin: auto;
+            padding: auto;
             background-color: #444;
             overflow: hidden;
         }
